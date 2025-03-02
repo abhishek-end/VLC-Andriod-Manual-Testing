@@ -3,7 +3,7 @@
 ## 📌 Overview
 This project focuses on manual testing of VLC Media Player for Android. The testing includes functional, UI/UX, and performance testing along with detailed tracking in Jira.
 
-![VLC App](https://www.google.com/url?sa=i&url=https%3A%2F%2Fandroid.gadgethacks.com%2Fhow-to%2Fuse-vlcs-picture-picture-mode-android-oreo-watch-videos-while-multitasking-0178774%2F&psig=AOvVaw2mPOoWB9klucCQTPcUYmzH&ust=1741035169311000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDhxs6j7IsDFQAAAAAdAAAAABBF)
+![VLC App](https://assets.content.technologyadvice.com/636355581707939907_e8f5df5bc8.webp)
 
 ## 🔧 Installation & Setup
 
