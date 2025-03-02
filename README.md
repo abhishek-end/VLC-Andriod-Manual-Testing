@@ -8,7 +8,7 @@ This project focuses on manual testing of VLC Media Player for Android. The test
 ## 🔧 Installation & Setup
 
 ### 1. Download VLC for Android
-- Go to the [VLC Official Site](https://www.videolan.org/vlc/download-android.html).
+- Go to the [VLC Official Site](https://www.videolan.org/vlc/download-android.html). / Play store 
 - Download and install the latest version.
 
 ### 2. Set Up Testing Environment
