@@ -64,7 +64,7 @@ This project focuses on manual testing of VLC Media Player for Android. The test
 - **F.R.S:** [Functional Requirements Document](Docs/FRS/Functional%20Requirements%20Specification.md)
 - **Test Plan:** [TEST PLAN](Docs/TestPlan/Test%20Plan.md)
 - **Test Scenarios:** [TEST SCENARIOS](Docs/TestScenario/VLC%20Test%20Scenarios.md)
-- **Test Cases:** [TEST CASES](docs/test_cases.md)
+- **Test Cases:** [TEST CASES](Docs/TestCases)
 
 📌 **All test cases are stored below.**
 
