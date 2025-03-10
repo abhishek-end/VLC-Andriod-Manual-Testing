@@ -67,4 +67,4 @@ This project focuses on manual testing of VLC Media Player for Android. The test
 - **Test Cases:** [TEST CASES](Docs/TestCases)
 
 📌 **All test cases are stored below.**
-- **INSTALLATION SUCCESSFULLY:** [TC_01](Docs/TestCases/TC%2001.md)
+- **INSTALLATION SUCCESSFULLY:** [TC_01](Docs/TestCases/TC_01.md)
