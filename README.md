@@ -99,6 +99,6 @@ This project focuses on manual testing of VLC Media Player for Android. The test
 - ORIENTATION SUPPORT (PORTRAIT & LANDSCAPE): [TC_30](Docs/TestCases/TC_30.md)
 - BLUETOOTH AUDIO OUTPUT HANDLING: [TC_31](Docs/TestCases/TC_31.md)
 - WIRED HEADPHONES SUPPORT: [TC_32](Docs/TestCases/TC_32.md)
-**ALL TEST CASES UPLOADED IN MD FILE HERE**
-  Testing In-progress at 11/03/2025
+- **ALL TEST CASES UPLOADED IN MD FILE HERE**
+- Testing In-progress at 11/03/2025
 
