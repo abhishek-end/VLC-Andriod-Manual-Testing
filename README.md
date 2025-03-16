@@ -101,6 +101,6 @@ This project focuses on manual testing of VLC Media Player for Android. The test
 - WIRED HEADPHONES SUPPORT: [TC_32](Docs/TestCases/TC_32.md)
 - **ALL TEST CASES UPLOADED IN MD FILE HERE**
  Testing In-progress at 11/03/2025
-TESTING DONE ✅
-**FINAL_TEST_REPROT** [FINAL REPORT](Docs/VLC_Final_Test_Report.docx)
-  **TRACEABILITY** [TRACEABILITY](Docs/Traceability.pdf)
+- TESTING DONE ✅
+- **FINAL_TEST_REPROT** [FINAL REPORT](Docs/VLC_Final_Test_Report.docx)
+  - **TRACEABILITY** [TRACEABILITY](Docs/Traceability.pdf)
